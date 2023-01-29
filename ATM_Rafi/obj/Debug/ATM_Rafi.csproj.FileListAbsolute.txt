@@ -1,0 +1,63 @@
+D:\Rafi\ATM_Rafi\bin\Debug\ATM_DB_Rafi.mdf
+D:\Rafi\ATM_Rafi\bin\Debug\ATM_DB_Rafi_log.ldf
+D:\Rafi\ATM_Rafi\bin\Debug\ATM_Rafi.exe.config
+D:\Rafi\ATM_Rafi\bin\Debug\ATM_Rafi.exe
+D:\Rafi\ATM_Rafi\bin\Debug\ATM_Rafi.pdb
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.AssemblyReference.cache
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.AnaSayfa.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.Bakiye.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.Giris.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.Hesap.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.HesapDetayi.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.HizliPara.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.ParaCekme.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.SifreDegistir.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.SuDayanik.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.Properties.Resources.resources
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.GenerateResource.cache
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.CoreCompileInputs.cache
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.exe
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.pdb
+D:\Rafi\ATM_Rafi\obj\Debug\ATM_Rafi.ParaYatirma.resources
+D:\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_DB_Rafi.mdf
+D:\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_DB_Rafi_log.ldf
+D:\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.exe.config
+D:\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.exe
+D:\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.pdb
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.AssemblyReference.cache
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.AnaSayfa.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Bakiye.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Giris.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.ParaYatirma.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Hesap.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.HesapDetayi.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.HizliPara.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.ParaCekme.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.SifreDegistir.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.SuDayanik.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Properties.Resources.resources
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.GenerateResource.cache
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.CoreCompileInputs.cache
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.exe
+D:\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.pdb
+E:\rafi11\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_DB_Rafi.mdf
+E:\rafi11\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_DB_Rafi_log.ldf
+E:\rafi11\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.exe.config
+E:\rafi11\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.exe
+E:\rafi11\ATM PROJECT\ATM_Rafi\bin\Debug\ATM_Rafi.pdb
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csprojAssemblyReference.cache
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.AnaSayfa.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Bakiye.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Giris.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.ParaYatirma.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Hesap.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.HesapDetayi.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.HizliPara.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.ParaCekme.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.SifreDegistir.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.SuDayanik.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.Properties.Resources.resources
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.GenerateResource.cache
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.csproj.CoreCompileInputs.cache
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.exe
+E:\rafi11\ATM PROJECT\ATM_Rafi\obj\Debug\ATM_Rafi.pdb
