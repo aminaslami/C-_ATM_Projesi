@@ -2,9 +2,9 @@
 
 # This project is used for OOP course
 
-### I write the all code from YouTube, you can copy the code from our github.
+1 -  I write the all code from YouTube, you can copy the code from our github.
 
-### The below project also have English version, I write my project on Turkish language
+2 -  The below project also have English version, I write my project on Turkish language
 
 ## Kaynak: https://www.youtube.com/watch?v=X5-jBxaeq-k&ab_channel=MyCodeSpace
 
