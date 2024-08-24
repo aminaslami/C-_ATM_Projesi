@@ -4,7 +4,7 @@
 
 ### I write the all code from YouTube, you can copy the code from our github.
 
-### The below project also have English version
+### The below project also have English version, I write my project on Turkish language
 
 ## Kaynak: https://www.youtube.com/watch?v=X5-jBxaeq-k&ab_channel=MyCodeSpace
 
